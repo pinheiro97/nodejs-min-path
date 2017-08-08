@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-min-path",
+  "version": "0.0.1",
+  "description": "NodeJS module to calculate shortest path given N points using Dijikstra's algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artnicbr/nodejs-min-path.git"
+  },
+  "keywords": [
+    "dijikstra",
+    "shortest",
+    "path",
+    "google",
+    "maps",
+    "api",
+    "minimal",
+    "cost"
+  ],
+  "author": "Andre Ricardo Citnra <andre@usp.br> (http://andrericardocintra.redirectme.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artnicbr/nodejs-min-path/issues"
+  },
+  "homepage": "https://github.com/artnicbr/nodejs-min-path#readme"
+}
