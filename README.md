@@ -10,7 +10,7 @@ npm install nodejs-min-path
 
 ### Basic Sample
 ```javascript
-var nodejs-min-path = require('nodejs-min-path');
+var MinP = require('nodejs-min-path');
 ```
 
 ## Proposal
